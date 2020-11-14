@@ -1,9 +1,3 @@
-/*
-    Brett Beaulieu
-    HW1
-    Computing 3
-*/
-
 #include <iostream>
 #include <cstdlib>
 
