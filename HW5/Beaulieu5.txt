@@ -1,0 +1,23 @@
+Brett Beaulieu
+Computing 3
+HW5
+Sample Input: 4 5 3 7
+Sample Output:
+Testing Default Constructor: 0+0i
+Testing constructor that allows only real part to be set: -2+0i
+Testing constructor that allows both parts to be set: 1-4i
+Default Constructor: 0+0i
+Testing set and get functions: 3-5i
+
+Enter real number: 4
+Enter imaginary number: 5
+Enter real number: 3
+Enter imaginary number: 7
+Inputted first number: 4+5i
+Inputted second complex number: 3+7i
+c5 + c6 (4+5i + 3+7i) == 7+12i
+c5 - c6 (4+5i - 3+7i) == 1-2i
+c5 * c6 (4+5i * 3+7i) == -23+43i
+Complex number before conjugate: 3-5i
+Complex number after conjugate: 3+5i
+
