@@ -1,1 +1,1 @@
-# Comp3
+# Computing 3
