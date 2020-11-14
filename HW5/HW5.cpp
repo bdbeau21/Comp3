@@ -1,9 +1,3 @@
-/*
-    Brett Beaulieu
-    Computing 3
-    HW5
-*/
-
 #include <iostream>
 using namespace std;
 
