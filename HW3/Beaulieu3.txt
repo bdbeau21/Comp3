@@ -1,0 +1,9 @@
+Brett Beaulieu
+Computing 3
+HW3
+Sample Output:
+2.00000 2.10000 2.00000 Isosceles triangle
+3.00000 3.00000 3.00000 Equilateral Triangle
+3.00002 4.00003 5.00001 Right Scalene triangle
+3 4 5 Right Scalene Triangle
+1 1 8 Not a triangle
