@@ -1,0 +1,10 @@
+Brett Beaulieu
+Computing 3
+HW4
+Sample Output:
+Testing Default Constructor: 0+0i
+Testing constructor that allows only real part to be set: -2+0i
+Testing constructor that allows both parts to be set: 1-4i
+
+Default Constructor: 0+0i
+Testing set and get functions: 3-5i
