@@ -1,0 +1,7 @@
+Brett Beaulieu
+Computing 3
+HW1
+
+Command line arguments: ./a 3 4 5
+Sample Output:
+3 4 5 Right Scalene Triangle
