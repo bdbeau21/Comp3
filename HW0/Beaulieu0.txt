@@ -1,0 +1,9 @@
+Brett Beaulieu
+Computing 3
+HWO
+
+Command line arguments: ./a.out "a b c " arg2
+Sample output:
+argv[0] = './a.out'
+argv[1] = 'a b c '
+argv[2] = 'arg2'
