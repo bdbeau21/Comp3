@@ -1,0 +1,27 @@
+Brett Beaulieu
+Computing 3
+HW7
+Sample Input: 2+2i
+Sample Output:
+Addition:
+3+4i
+5+6i
+5+6i
+
+Subtraction:
+1
+-1-2i
+1+2i
+
+Multiplication:
+-2+6i
+-2+14i
+-2+14i
+
+Division:
+-2
+-2
+
+Double Addition:
+4+5i
+4+5i
