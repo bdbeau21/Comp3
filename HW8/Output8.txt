@@ -1,0 +1,15 @@
+Computing 3
+HW8
+Sample Input: 4/3
+Sample Output:
+Addition:
+17 / 6
+
+Subtraction:
+1 / 6
+
+Multiplication:
+2 / 3
+
+Division:
+9 / 8
